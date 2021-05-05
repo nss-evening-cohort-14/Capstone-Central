@@ -1,8 +1,4 @@
 # Initial Proposal
-
-:star2::star2::star2::star2:[SUBMIT PROPOSAL HERE](https://forms.gle/oT9fQ9jYQTAunRf87):star2::star2::star2::star2:
-
-
 #### Your initial proposal is needed to
 1. Match you with a capstone mentor.
 1. Get your project approved by Dr. T.
@@ -44,3 +40,6 @@ Features:
 > Once the 2-minute animation and song duo is completed. The child receives a "sticker" for brushing. Brushing is limited to once per morning and once per evening.
 
 > Once per week, the parents will be emailed with the results of how many times their child(ren) brushed that week. (STRETCH)
+> 
+
+:star2::star2::star2::star2:[SUBMIT PROPOSAL HERE](https://forms.gle/oT9fQ9jYQTAunRf87):star2::star2::star2::star2:
