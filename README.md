@@ -15,8 +15,8 @@ This repo contains everything you need to know about capstones - due dates, expe
 ## DEADLINES
 * **Week 20 - Saturday:** Initial Proposal Due (Use the Google form found on the [initial proposal page](./02_initial-proposal.md)) - please don't wait until the actual due date for this.  Get it in this weekend before someone else takes your topic.
 * **Week 21 - Monday:** Project ERD due - again get this to me ASAP so nobody needs to wait
-* **Week 22 - Monday:** User stories, tickets, wireframes **VIDEO** due
-  - [Loom](https://www.loom.com/)
+* **Week 22 - Monday:** User stories, tickets, wireframes, personal biosite URL, and **LOOM VIDEO** due
+  - [SUBMIT HERE](https://forms.gle/KZkhQwUgrSErZhDV6)
 * **Week 22 - Saturday:** 1-on-1s with mentor to determine MVP
 * **Week 23 - Monday:** Coding begins - assuming your mentor is satisfied with your planning
 * **Week 24 - Saturday:** MVP is due - EVERY person will do a soft demo
