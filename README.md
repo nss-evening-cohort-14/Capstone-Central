@@ -20,7 +20,7 @@ This repo contains everything you need to know about capstones - due dates, expe
 * **Week 22 (June 12) - Saturday:** 1-on-1s with mentor to determine MVP
 * **Week 23 (June 14) - Monday:** Coding begins - assuming your mentor is satisfied with your planning
 * **Week 24 (June 26) - Saturday:** MVP is due - EVERY person will do a soft demo
-* **July 10** FE Capstone Demos to E15 and E16
+* **July 10** - FE Capstone Demos to E15 and E16
 
 ## CAPSTONE REQUIREMENTS
 ##### Technical Requirements:
