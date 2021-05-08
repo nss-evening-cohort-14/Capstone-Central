@@ -11,11 +11,14 @@ This repo contains everything you need to know about capstones - due dates, expe
 - [Initial Proposal](02_initial-proposal.md)
 - [Mentor Checkins](#mentor-1on1s)
 
+## Timeline
+- Capstone Planning - Week 22
+- Capstone Coding - Weeks 23 - 24
 
 ## DEADLINES
 * **Week 20 (May 29) - Saturday:** Initial Proposal Due (Use the Google form found on the [initial proposal page](./02_initial-proposal.md)) - please don't wait until the actual due date for this.  Get it in this weekend before someone else takes your topic.
 * **Week 21 (June 1) - Tuesday:** Project ERD AND if using an API, Postman Data Examples due - again get this to me ASAP so nobody needs to wait
-* * **Week 22 (June 8) - Tuesday:** 1-on-1s with mentor to determine MVP
+* **Week 22 (June 8) - Tuesday:** 1-on-1s with mentor to determine MVP
 * **Week 22 (June 12 - Before 6:00PM) - Saturday:** User stories, tickets, wireframes, personal biosite COMPLETED, and **LOOM VIDEO** due
   - [SUBMIT HERE](https://forms.gle/KZkhQwUgrSErZhDV6)
 * **Week 23 (June 12) - Saturday:** Coding begins - assuming your mentor is satisfied with your planning
