@@ -56,7 +56,7 @@ This repo contains everything you need to know about capstones - due dates, expe
 ## Mentor 1on1s
 During capstone time you will have 3 meetings with your mentor. These meetings are **NOT** a time for you to talk about broken code.  They are a time to reflect on your progress and set easily attainable goals to make sure you will be finished with your project by the MVP deadline.  Below is an outline of what you should have done before each check in:
 
-### Check in #1 - Week 22, Saturday
+### Check in #1 - Week 22, Tuesday
 * This is your first check in
 * Purpose: to outline and agree on your capstone MVP.
 * Preparation for this meeting:
