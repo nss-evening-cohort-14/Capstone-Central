@@ -29,7 +29,7 @@ This repo contains everything you need to know about capstones - due dates, expe
 ##### Technical Requirements:
 * React
 * Firebase CRUD
-* Bootstrap/Reactstrap
+* Bootstrap/Reactstrap/Styled Components
 * Deployed Site (Firebase or Netlify)
 * It is NOT required to use an external API.
 
