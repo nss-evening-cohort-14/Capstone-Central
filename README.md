@@ -10,6 +10,7 @@ This repo contains everything you need to know about capstones - due dates, expe
   - [Project NoNos](#project-nonos)
 - [Initial Proposal](02_initial-proposal.md)
 - [Mentor Checkins](#mentor-1on1s)
+- [Demo Day Tips](./demodaytips.md)
 
 ## Timeline
 - Capstone Planning - Week 22
