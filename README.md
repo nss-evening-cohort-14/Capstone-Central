@@ -17,9 +17,14 @@ This repo contains everything you need to know about capstones - due dates, expe
 - Capstone Coding - Weeks 23 - 24
 
 ## DEADLINES
+
+### Should be completed:
 * **Week 20 (May 29) - Saturday:** Initial Proposal Due (Use the Google form found on the [initial proposal page](./02_initial-proposal.md)) - please don't wait until the actual due date for this.  Get it in this weekend before someone else takes your topic.
 * **Week 21 (June 1) - Tuesday:** Project ERD AND if using an API, Postman Data Examples due - again get this to me ASAP so nobody needs to wait
-* **Week 22 (June 8) - Tuesday:** [1-on-1s with mentor to determine MVP](https://github.com/nss-evening-cohort-14/Capstone-Central/blob/master/README.md#check-in-1---week-22-tuesday). Come prepared with: User stories, tickets, wireframes, personal biosite COMPLETED, and **LOOM VIDEO** due
+
+### Coming Up:
+* **Week 22 (DUE: June 8) - Tuesday:** [1-on-1s with mentor to determine MVP](https://github.com/nss-evening-cohort-14/Capstone-Central/blob/master/README.md#check-in-1---week-22-tuesday). (If you are able to get this in sooner, if approved, you can begin coding sooner)
+  * Come prepared with: User stories, tickets, wireframes, personal biosite COMPLETED, and **LOOM VIDEO** due
   - [SUBMIT HERE](https://forms.gle/KZkhQwUgrSErZhDV6)
 * **Week 23 (June 12) - Saturday:** Coding begins - assuming your mentor is satisfied with your planning
 * **Week 24 (June 26) - Saturday:** MVP is due - EVERY person will do a soft demo
