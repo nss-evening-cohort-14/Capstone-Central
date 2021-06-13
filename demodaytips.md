@@ -33,6 +33,6 @@ Once you have reached MVP and are approved - **MAKE AN MVP BRANCH, PUSH IT TO GI
 ## BEFORE YOU JUMP INTO SERVER SIDE, UPDATE YOUR README!!
 - Synopsis of the problem you're solving with this app
 - Include instructions on how download/clone/install and run the app - npm start, json server port, etc.
-- ☝️  This reminds YOU in 3 months how to run your app, because you will have forgotten. Trust me.
+- ☝️  This reminds YOU in 6 months how to run your app, because you will have forgotten. Trust me.
 - Link to or insert an image (or both) of your ERD
 - Link to or insert an image (or both) of your Wireframe
